@@ -1,2 +1,1 @@
-# circlelab
-Roomplaning and installments for the CircleLab
+# CircleLab - Room design
